@@ -21,9 +21,13 @@ Please for this repository and then issue Pull Requests for review.
 
 This is a simple web project, deployment can be on any web server or even local file system.
 
+## How to Contribute
+
+
+## Copyright
 
 
 Sample website with plenty of files for demos
 
-2021 GIt.Training
+2021 GIt.Training. All rights reserved.
 
