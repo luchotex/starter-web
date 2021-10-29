@@ -14,7 +14,7 @@ As stated above, the main purpose is to provide simple examples for git trainnin
 
 ## How to Contribute
 
-This repository is for showing how Git and GitHub work
+Please for this repository and then issue Pull Requests for review.
 
 ## Deployment
 
